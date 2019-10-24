@@ -1,0 +1,102 @@
+body{
+    margin:auto;
+    background-color: blanchedalmond;
+}
+
+.header{
+    background-color:#54a0ff;
+}
+
+.header img{
+    height:20px ;
+}
+
+.header a{
+    color:white;
+}
+
+.title{
+    position:relative;
+    left:30px;
+    display:inline-block;
+    margin-top:10px;
+    margin-bottom:10px;
+}
+.links{
+    float: right;
+    position:relative;
+    right:30px;
+    margin-top:10px;
+    margin-bottom:10px;
+}
+
+/*  */
+.container{
+    width:100%;
+    text-align: center;
+    font-size: 20px;
+    font-family:"YouYuan",Times,serif;
+    overflow: auto;
+    margin-top:20px;
+    margin-bottom:20px;
+}
+
+.img_contaniner{
+    width:80%;
+    overflow: auto;
+    margin:auto;
+}
+
+.movie{
+    background-color:#FFEBCC;
+    width:21%;
+    height: 300px;
+    margin:2%;
+    float:left;
+    text-align: center;
+}
+
+.movie img{
+    margin-top: 5%;
+    height:85%;
+    width:90%;
+}
+
+.book{
+    background-color:tan;
+    width:21%;
+    height: 300px;
+    margin:2%;
+    float:left;
+}
+
+.book img{
+    margin-top: 5%;
+    height:85%;
+    width:90%;
+}
+
+/*  */
+.footer{
+    width:100%;
+    background-color:#54a0ff;
+    color:white;
+}
+
+.desc{
+    width:80%;
+    position:relative;
+    left:10%;
+    right:10%;
+}
+
+.desc img{
+    height:120px;
+    float:right;
+    margin-top:20px;
+    margin-bottom:20px;
+}
+
+.copyright{
+    text-align: center;
+}
