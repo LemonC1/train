@@ -46,8 +46,9 @@ body{
     border-bottom: 1px solid #595959;
 }
 
-#menu ul>li:last-child{
-    border-bottom: none;
+#menu ul>li:last-child {
+    border-bottom: 0;
+
 }
 
 a{
