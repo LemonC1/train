@@ -1,0 +1,26 @@
+#container{
+    /*width:700px;*/
+    height:300px;
+    margin:50px 100px;
+    border:solid 2px #7a2a1d;
+    overflow:hidden;
+}
+.s_c{
+    width:500px;
+    margin:0 auto;
+}
+#message{
+    width:400px;
+    height:30px;
+    margin:0 auto;
+    position:relative;
+    left:50px;
+}
+.btn{
+    padding-top:20px;
+    height:30px;
+    margin-left:150px;
+}
+#sent,#clear,#sendmuch{
+    width:100px;
+}
